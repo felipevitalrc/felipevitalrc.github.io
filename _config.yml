@@ -6,7 +6,7 @@ logo_url:           https://avatars3.githubusercontent.com/u/30779280?v=4 # Get 
 
 # Site Settings
 url:                https://felipevitalrc.github.io # main url
-baseurl:            /the-plain
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
