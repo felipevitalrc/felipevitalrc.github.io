@@ -2,7 +2,7 @@
 title:              "Felipe Vital - felipevitalrc"
 description:        "Meu blog pessoal"
 author_name:        "Felipe Vital" # change this to your name
-logo_url:           https://avatars2.githubusercontent.com/u/30779280?s=400&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars3.githubusercontent.com/u/30779280?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://felipevitalrc.github.io # main url
