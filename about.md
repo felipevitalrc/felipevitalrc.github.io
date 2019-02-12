@@ -1,10 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-Hello.
-
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
-
-**Less is more..**
+Sou formado em análise e desenvolvimento de sistemas pelo Centro Universitário FIEO, apaixonado por tecnologia e internet, amante de iniciativas que dão autonomia as pessoas, constante estudante e entusiasta das metodologias de gerenciamento de projetos e ciências de dados, aspirante a saxofonista, cristão e antifascista.
