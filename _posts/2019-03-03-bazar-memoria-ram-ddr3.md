@@ -6,10 +6,9 @@ date: 2019-03-03 12:47:00
 
 ## Memória RAM DDR3 p/ Notebook
 
-#### Par de memória RAM DDR3 (2Gb's cada) para Notebooks.
-#### Marca: SMART
-#### 10600s
-#### Freq.: 1333
+| Marca        | Frequência       |Tipo de máquina  |Processamento |
+| -------------|:----------------:|----------------:|-------------:|
+| SMART        | 1333Mhz / 10600s |Notebook         | 2 GB's       |
 
 ###### R$ 40,00 (o par)
 
