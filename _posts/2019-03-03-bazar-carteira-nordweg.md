@@ -1,6 +1,6 @@
 ---
 title: [Bazar] Carteira Nordweg
-updated: 2019-03-03 11:24
+updated: 2019-03-03 11:58
 ---
 
 <div class="divider"></div>
