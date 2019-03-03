@@ -3,6 +3,11 @@ title:              "Felipe Vital"
 description:        "Site do Vital"
 author_name:        "Felipe Vital" # change this to your name
 logo_url:           https://avatars3.githubusercontent.com/u/30779280?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+author_twitter_username: #Insert Your Twitter username
+author_github_username: #Insert Your GitHub username
+author_facebook_username: #Insert Your Facebook username
+author_linkedin_username: #Insert Your Linkedin username
+
 
 # Site Settings
 url:                https://felipevital.com # main url
