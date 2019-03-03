@@ -3,7 +3,7 @@ title: Bazar do Vital
 updated: 2019-03-03 11:24
 ---
 
-<div class="divider"></div>
+<div class="divider">
 
 ## Carteira Nordweg
 
@@ -19,3 +19,5 @@ updated: 2019-03-03 11:24
 
 [^1]: Footnote number one yeah baby! Long sentence test of footnote to see how the words are wrapping between each other. Might overflowww!
 [^2]: A footnote you can link to - [click here!](#)
+
+</div>
