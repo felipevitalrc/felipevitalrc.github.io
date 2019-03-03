@@ -1,6 +1,6 @@
 ---
 layout: post
-title: {Bazar} Carteira Nordweg
+title: '[Bazar]' Carteira Nordweg
 date: 2019-03-03 12:06:00
 ---
 
